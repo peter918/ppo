@@ -1,0 +1,10 @@
+C:\Users\Hesu\Desktop\Latarka\Latarka\Latarka\bin\Debug\Latarka.exe.config
+C:\Users\Hesu\Desktop\Latarka\Latarka\Latarka\bin\Debug\Latarka.exe
+C:\Users\Hesu\Desktop\Latarka\Latarka\Latarka\bin\Debug\Latarka.pdb
+C:\Users\Hesu\Desktop\Latarka\Latarka\Latarka\obj\Debug\Latarka.csprojResolveAssemblyReference.cache
+C:\Users\Hesu\Desktop\Latarka\Latarka\Latarka\obj\Debug\Latarka.Form1.resources
+C:\Users\Hesu\Desktop\Latarka\Latarka\Latarka\obj\Debug\Latarka.Properties.Resources.resources
+C:\Users\Hesu\Desktop\Latarka\Latarka\Latarka\obj\Debug\Latarka.csproj.GenerateResource.Cache
+C:\Users\Hesu\Desktop\Latarka\Latarka\Latarka\obj\Debug\Latarka.csproj.CoreCompileInputs.cache
+C:\Users\Hesu\Desktop\Latarka\Latarka\Latarka\obj\Debug\Latarka.exe
+C:\Users\Hesu\Desktop\Latarka\Latarka\Latarka\obj\Debug\Latarka.pdb
